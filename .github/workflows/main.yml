@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mydockerhubusername/sahil2003/testrepo:tagname
+          tags: sahil2003/testrepo:tagname
