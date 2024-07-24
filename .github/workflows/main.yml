@@ -30,7 +30,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: 
+          tags: |
               sahil2003/testrepo:test-1.0
               sahil2003/testrepo:latest
               sahil2003/testrepo:v1.0
